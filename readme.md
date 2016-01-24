@@ -10,7 +10,7 @@ The xbreak boardset, combines the following functionality:
 Support for:
    2 Hot Ends - (With Highside or Lowside Switching)
    2 Themistors or themocouple (2 Wires per sensor)
-   2 Stepers (2 Pairs Each, Nemal7 compatible)
+   2 Stepers (2 Pairs Each, Nema17 compatible)
    Fans - 8 PWM Controlled
    Servo Control - Support for 8 Servos - PWM Controlled
    4 Action Inputs (can be used to trigger Servo or Fan settigns)
