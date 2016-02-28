@@ -54,23 +54,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BPFEQSDH
 
 [Document2]
-DocumentPath=..\pcb\xbreak.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QWAJUHFF
-
-[Document3]
 DocumentPath=..\pcb\xbreak.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,6 +69,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTWFXXLA
+
+[Document3]
+DocumentPath=..\pcb\xbreak.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QWAJUHFF
 
 [Document4]
 DocumentPath=..\pcb\USB31Library\PcbLib1.PcbLib
